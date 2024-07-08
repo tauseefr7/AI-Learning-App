@@ -10,7 +10,7 @@ In education, they enhance learning efficiency and accessibility for students. I
 
 1. **Caption Extraction:** Using the [`youtube-transcript-api`](https://github.com/jdepoix/youtube-transcript-api), captions are extracted from a given YouTube video URL.
 2. **Quiz Generation:** The extracted captions are then fed into OpenAI's LLM using [`LangChain Python`](https://python.langchain.com/) with a predefined prompt template. The model generates questions based on the content, turning the video's key points into an interactive quiz.
-3. **Summary:** The extracted captions are then fed into OpenAI's LLM similar (as with the quiz generation) but used to created a text summary. With custom prompts as a feature.
+3. **Summary:** The extracted captions are then fed into OpenAI's LLM similar (as with the quiz generation) but used to create a text summary. With custom prompts as an option.
 4. **Streamlit Integration:** The quizzes are integrated and displayed in a Streamlit app, providing users with an interactive experience.
 
 ## 🤝 Connect with Me
