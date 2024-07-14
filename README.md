@@ -4,7 +4,7 @@ This app creates interactive quizzes from Youtube video captions (English only).
 
 Benefits of summaries and quizzes across domains:
 
-In education, they enhance learning efficiency and accessibility for students. In corporate training, they save time and ensure comprehension among employees, aiding in onboarding. For content creators, they boost engagement and offer monetisation opportunities. In research, they facilitate information synthesis and evaluation of findings. In personal development, they aid skill acquisition and time management. They also improve accessibility for non-native speakers and the hearing impaired. Additionally, in marketing, they enable content repurposing and serve as effective lead generation tools.
+In education, they enhance learning efficiency and accessibility for students. In corporate training, they save time and ensure comprehension among employees, aiding in onboarding. For content creators, they boost engagement and offer monetisation opportunities. In research, they facilitate information synthesis and evaluation of findings. In personal development, they aid skill acquisition and time management. They also improve accessibility for non-native speakers and the hearing impaired. Additionally, in marketing they enable content repurposing and serve as effective lead generation tools.
 
 ## How It Works
 
@@ -13,7 +13,6 @@ In education, they enhance learning efficiency and accessibility for students. I
 3. **Summary:** The extracted captions are then fed into OpenAI's LLM similar (as with the quiz generation) but used to create a text summary. With custom prompts as an option.
 4. **Streamlit Integration:** The quizzes are integrated and displayed in a Streamlit app, providing users with an interactive experience.
 
-<video src='[your URL here](https://github.com/user-attachments/assets/831cdaeb-4347-4c5a-aaa0-f92c3c2e77dd)' width=180/>
 [![Application demo](https://github.com/user-attachments/assets/831cdaeb-4347-4c5a-aaa0-f92c3c2e77dd)]
 
 ## 🤝 Connect with Me
