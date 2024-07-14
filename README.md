@@ -13,6 +13,9 @@ In education, they enhance learning efficiency and accessibility for students. I
 3. **Summary:** The extracted captions are then fed into OpenAI's LLM similar (as with the quiz generation) but used to create a text summary. With custom prompts as an option.
 4. **Streamlit Integration:** The quizzes are integrated and displayed in a Streamlit app, providing users with an interactive experience.
 
+Application demo:
+https://github.com/user-attachments/assets/831cdaeb-4347-4c5a-aaa0-f92c3c2e77dd
+
 ## 🤝 Connect with Me
 - 💼 **LinkedIn:** [Tauseef Rehman](https://www.linkedin.com/in/rehmantauseef/)
 
